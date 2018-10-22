@@ -4530,7 +4530,9 @@ reads almost as though it were an appointment."
 Holmes took up the scrap of paper, a fac-simile of which is here
 reproduced.
 
-     d at quarter to twelve learn what maybe
+          at quarter to twelve
+          learn what
+          maybe
 
 "Presuming that it is an appointment," continued the Inspector, "it is
 of course a conceivable theory that this William Kirwan--though he had
@@ -5133,10 +5135,12 @@ suspicion might never have been aroused."
 
 Sherlock Holmes placed the subjoined paper before us.
 
-     If you will only come around to the east gate it will
-     very much surprise you and be of the greatest service to you
-     and also to Annie Morrison. But say nothing to anyone upon
-     the matter.
+     If you will only come round at quarter to twelve
+     to the east gate you will learn what
+     will very much surprise you and maybe [sic]
+     be of the greatest service to you and also
+     to Annie Morrison. But say nothing to anyone
+     upon the matter.
 
 "It is very much the sort of thing that I expected," said he. "Of
 course, we do not yet know what the relations may have been between Alec
@@ -5550,7 +5554,7 @@ spite of her denial, that she must know something of the matter.
 between this young lady and the old soldier, which the former had now
 confessed to the wife. That would account for the angry return, and
 also for the girl's denial that anything had occurred. Nor would it be
-entirely incompatible with most of the words overhead. But there was the
+entirely incompatible with most of the words overheard. But there was the
 reference to David, and there was the known affection of the Colonel for
 his wife, to weigh against it, to say nothing of the tragic intrusion
 of this other man, which might, of course, be entirely disconnected with
@@ -5889,7 +5893,7 @@ I fear, but you will find the story in the first or second of Samuel."
 Adventure VIII. The Resident Patient
 
 
-Glancing over the somewhat incoherent series of Memoirs with which I
+In glancing over the somewhat incoherent series of Memoirs with which I
 have endeavored to illustrate a few of the mental peculiarities of my
 friend Mr. Sherlock Holmes, I have been struck by the difficulty which I
 have experienced in picking out examples which shall in every way answer
@@ -7823,7 +7827,7 @@ for the coffee.
 
 "I wrote two more articles and then, feeling more drowsy than ever, I
 rose and walked up and down the room to stretch my legs. My coffee had
-not yet come, and I wondered what was the cause of the delay could be.
+not yet come, and I wondered what the cause of the delay could be.
 Opening the door, I started down the corridor to find out. There was a
 straight passage, dimly lighted, which led from the room in which I
 had been working, and was the only exit from it. It ended in a curving
@@ -8954,7 +8958,7 @@ key in the lock."
 "Yes; I had given Miss Harrison instructions to lock the door on the
 outside and take the key with her when she went to bed. She carried out
 every one of my injunctions to the letter, and certainly without her
-cooperation you would not have that paper in you coat-pocket. She
+cooperation you would not have that paper in your coat-pocket. She
 departed then and the lights went out, and I was left squatting in the
 rhododendron-bush.
 
